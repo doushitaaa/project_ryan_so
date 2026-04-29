@@ -1,0 +1,109 @@
+{
+    "UID": "8d41ceb2-30fb-4e1c-a6c5-5fb6fedd092f",
+    "Number": "20-7715",
+    "Name": "*Rabbit C/Holder Gold Gilded",
+    "IsActive": true,
+    "Description": "H 56cm X W 40cm x L 76 Kgs",
+    "UseDescription": false,
+    "CustomList1": {
+        "Label": "Shop by Category",
+        "Value": "Clearance"
+    },
+    "CustomList2": {
+        "Label": "Wholesale Price",
+        "Value": "$20.00"
+    },
+    "CustomList3": {
+        "Label": "Weight Kgs",
+        "Value": "25.00"
+    },
+    "CustomField1": {
+        "Label": "Bin Loc",
+        "Value": "F22"
+    },
+    "CustomField2": {
+        "Label": "Barcode",
+        "Value": "1"
+    },
+    "CustomField3": {
+        "Label": "Bale Qty",
+        "Value": "20"
+    },
+    "QuantityOnHand": 1.0,
+    "QuantityCommitted": 0.0,
+    "QuantityOnOrder": 0.0,
+    "QuantityAvailable": 1.0,
+    "AverageCost": 8.250000,
+    "CurrentValue": 8.250000,
+    "BaseSellingPrice": 20.000000,
+    "IsBought": true,
+    "IsSold": true,
+    "IsInventoried": true,
+    "ExpenseAccount": null,
+    "CostOfSalesAccount": {
+        "UID": "e31f5a61-b8ed-4ccb-9a8b-eb55398e39c7",
+        "Name": "Purchases - O/s",
+        "DisplayID": "5-9000",
+        "URI": "https://arl2.api.myob.com/accountright/48d8b367-05e9-4bcb-86d4-b7fc464e944e/GeneralLedger/Account/e31f5a61-b8ed-4ccb-9a8b-eb55398e39c7"
+    },
+    "IncomeAccount": {
+        "UID": "18004588-98a0-4125-b1e9-6ddaea8792a5",
+        "Name": "Sales",
+        "DisplayID": "4-9000",
+        "URI": "https://arl2.api.myob.com/accountright/48d8b367-05e9-4bcb-86d4-b7fc464e944e/GeneralLedger/Account/18004588-98a0-4125-b1e9-6ddaea8792a5"
+    },
+    "AssetAccount": {
+        "UID": "31652302-003c-4ee8-b976-1c3964701376",
+        "Name": "Merchandise Inventory",
+        "DisplayID": "1-9010",
+        "URI": "https://arl2.api.myob.com/accountright/48d8b367-05e9-4bcb-86d4-b7fc464e944e/GeneralLedger/Account/31652302-003c-4ee8-b976-1c3964701376"
+    },
+    "BuyingDetails": {
+        "LastPurchasePrice": 8.334200,
+        "StandardCost": 0.000000,
+        "BuyingUnitOfMeasure": "",
+        "ItemsPerBuyingUnit": 1.0,
+        "TaxCode": {
+            "UID": "33c48787-7e0e-4102-af6c-94aeed662333",
+            "Code": "GST",
+            "URI": "https://arl2.api.myob.com/accountright/48d8b367-05e9-4bcb-86d4-b7fc464e944e/GeneralLedger/TaxCode/33c48787-7e0e-4102-af6c-94aeed662333"
+        },
+        "RestockingInformation": {
+            "MinimumLevelForRestockingAlert": 0.0,
+            "Supplier": null,
+            "SupplierItemNumber": "",
+            "DefaultOrderQuantity": 0.0
+        },
+        "StandardCostTaxInclusive": true
+    },
+    "SellingDetails": {
+        "BaseSellingPrice": 20.000000,
+        "SellingUnitOfMeasure": "1",
+        "ItemsPerSellingUnit": 1.0,
+        "TaxCode": {
+            "UID": "33c48787-7e0e-4102-af6c-94aeed662333",
+            "Code": "GST",
+            "URI": "https://arl2.api.myob.com/accountright/48d8b367-05e9-4bcb-86d4-b7fc464e944e/GeneralLedger/TaxCode/33c48787-7e0e-4102-af6c-94aeed662333"
+        },
+        "IsTaxInclusive": false,
+        "CalculateSalesTaxOn": "ActualSellingPrice",
+        "PriceMatrixURI": "https://arl2.api.myob.com/accountright/48d8b367-05e9-4bcb-86d4-b7fc464e944e/Inventory/ItemPriceMatrix/8d41ceb2-30fb-4e1c-a6c5-5fb6fedd092f"
+    },
+    "LocationDetails": [
+        {
+            "Location": {
+                "UID": "cc10d799-f0b9-4c17-915f-5fe61ea08f60",
+                "Identifier": "Location1",
+                "Name": "Mentone Victoria Warehouse",
+                "URI": "https://arl2.api.myob.com/accountright/48d8b367-05e9-4bcb-86d4-b7fc464e944e/Inventory/Location/cc10d799-f0b9-4c17-915f-5fe61ea08f60"
+            },
+            "QuantityOnHand": 1.0
+        }
+    ],
+    "DefaultSellLocation": null,
+    "DefaultReceiveLocation": null,
+    "LastModified": "2022-10-20T03:43:21.22",
+    "PhotoURI": "https://arl2.api.myob.com/accountright/48d8b367-05e9-4bcb-86d4-b7fc464e944e/Inventory/Item/8d41ceb2-30fb-4e1c-a6c5-5fb6fedd092f/Photo",
+    "URI": "https://arl2.api.myob.com/accountright/48d8b367-05e9-4bcb-86d4-b7fc464e944e/Inventory/Item/8d41ceb2-30fb-4e1c-a6c5-5fb6fedd092f",
+    "RowVersion": "-3662488625284644864"
+},

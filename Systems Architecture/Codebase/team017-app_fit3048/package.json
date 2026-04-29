@@ -1,0 +1,7 @@
+{
+    "name": "team017-app_fit3048",
+    "version": "1.0.0",
+    "dependencies": {
+        "@ericblade/quagga2": "^1.8.2"
+    }
+}
